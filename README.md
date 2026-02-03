@@ -19,6 +19,4 @@ To reproduce the analysis:
 3. Run the script in R (common packages used: haven, dplyr/tidyverse, caret, pROC, gbm, randomForest, rpart).
 
 ## Visualization
-Upload your ROC/AUC figure (e.g., `roc_auc.png`) to this repository, then add the line below to display it:
-
-![ROC Curve (AUC)](roc_auc.png)
+![ROC Curve (AUC)](ROC_AUC.png)
